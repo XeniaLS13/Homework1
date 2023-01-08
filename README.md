@@ -41,4 +41,4 @@ a = -9 b = -3 -> max = -3
 
 8 -> 2, 4, 6, 8
 
-[Блок-схема](Task4/diagram4.drawio.png) | [КОД](https://github.com/XeniaLS13/Homework1/blob/main/Task4/Program.cs)
+[Блок-схема](Task4/diagram_4.drawio.png) | [КОД](https://github.com/XeniaLS13/Homework1/blob/main/Task4/Program.cs)

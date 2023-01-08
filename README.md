@@ -9,7 +9,7 @@ a = 2 b = 10 -> max = 10
 
 a = -9 b = -3 -> max = -3
 
-[Блок-схема](diagram.Task1/../Task1/Diagram.drawio.png) | [КОД](program.cs)
+[Блок-схема](diagram.Task1/../Task1/Diagram.drawio.png) | [КОД](https://github.com/XeniaLS13/Homework1/blob/main/Task1/Program.cs)
 
 ## Задача 2
 ### Напишите программу, которая принимает на вход три числа и выдаёт максимальное из этих чисел.
@@ -20,7 +20,7 @@ a = -9 b = -3 -> max = -3
 
 22 3 9 -> 22
 
-[Блок-схема](diagram.Task2/../Task2/Diagram2.drawio.png) | [КОД](program.cs)
+[Блок-схема](diagram.Task2/../Task2/Diagram2.drawio.png) | [КОД](https://github.com/XeniaLS13/Homework1/blob/main/Task2/Program.cs)
 
 ## Задача 3
 ### Напишите программу, которая на вход принимает число и выдаёт, является ли число чётным (делится ли оно на два без остатка).
@@ -31,4 +31,12 @@ a = -9 b = -3 -> max = -3
 
 7 -> нет
 
-[Блок-схема](Task3/diagram3.drawio.png) | [КОД](program.cs)
+[Блок-схема](Task3/diagram3.drawio.png) | [КОД](https://github.com/XeniaLS13/Homework1/blob/main/Task3/Program.cs)
+
+## Задача 4
+
+### Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N.
+
+5 -> 2, 4
+
+8 -> 2, 4, 6, 8

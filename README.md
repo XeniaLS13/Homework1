@@ -30,3 +30,5 @@ a = -9 b = -3 -> max = -3
 -3 -> нет
 
 7 -> нет
+
+[Блок-схема](Task3/diagram3.drawio.png) | [КОД](program.cs)

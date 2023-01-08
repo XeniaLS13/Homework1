@@ -33,4 +33,12 @@ a = -9 b = -3 -> max = -3
 
 [Блок-схема](Task3/diagram3.drawio.png) | [КОД](https://github.com/XeniaLS13/Homework1/blob/main/Task3/Program.cs)
 
+## Задача 4
 
+### Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N.
+
+5 -> 2, 4
+
+8 -> 2, 4, 6, 8
+
+[Блок-схема](Task4/diagram_4.drawio.png) | [КОД](https://github.com/XeniaLS13/Homework1/blob/main/Task4/Program.cs)

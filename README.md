@@ -9,7 +9,7 @@ a = 2 b = 10 -> max = 10
 
 a = -9 b = -3 -> max = -3
 
-[Блок-схема](diagram.Task1/Diagram.drawio.png) | [КОД](program.cs)
+[Блок-схема](diagram.Task1/../Task1/Diagram.drawio.png) | [КОД](program.cs)
 
 ## Задача 2
 ### Напишите программу, которая принимает на вход три числа и выдаёт максимальное из этих чисел.
